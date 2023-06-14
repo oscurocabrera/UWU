@@ -1,0 +1,15 @@
+C:\Users\juan cabrera\Desktop\uwu\bin\Debug\net7.0\uwu.exe
+C:\Users\juan cabrera\Desktop\uwu\bin\Debug\net7.0\uwu.deps.json
+C:\Users\juan cabrera\Desktop\uwu\bin\Debug\net7.0\uwu.runtimeconfig.json
+C:\Users\juan cabrera\Desktop\uwu\bin\Debug\net7.0\uwu.dll
+C:\Users\juan cabrera\Desktop\uwu\bin\Debug\net7.0\uwu.pdb
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.csproj.AssemblyReference.cache
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.AssemblyInfoInputs.cache
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.AssemblyInfo.cs
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.csproj.CoreCompileInputs.cache
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.dll
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\refint\uwu.dll
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.pdb
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\uwu.genruntimeconfig.cache
+C:\Users\juan cabrera\Desktop\uwu\obj\Debug\net7.0\ref\uwu.dll
